@@ -1,0 +1,9 @@
+[submodule "xsocial"]
+	path = xsocial
+	url = https://github.com/sharath-wq/xsocial.git
+[submodule "xsocial-admin"]
+	path = xsocial-admin
+	url = https://github.com/sharath-wq/xsocial-admin.git
+[submodule "xsocial-client"]
+	path = xsocial-client
+	url = https://github.com/sharath-wq/xsocial-client.git
